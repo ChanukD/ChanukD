@@ -55,7 +55,7 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 <div align="center">
   <h3>GitHub's Data Statistics</h3>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ChanukD-0&theme=dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=ChanukD&theme=dark" alt="GitHub Streak" />
   </a>
 </div>
 
