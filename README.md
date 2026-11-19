@@ -31,25 +31,6 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 <br/> 
 </h4>
 
-<div align="center">
-  <div>
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  </div>
-  <div>
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-  </div>
-</div>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
@@ -66,7 +47,7 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 - Backend
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,spring,fastapi,express,nestjs,python,django,dotnet,fastapi,flask,gradle,redis,ts,selenium" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,spring,fastapi,express,nestjs,python,django,dotnet,flask,gradle,redis,ts,selenium" />
   </a>
 </p>
 
@@ -80,8 +61,7 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 - Development Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,linux,androidstudio,atom,elasticsearch,grafana,kali,kubernetes,terraform,webstorm,vscode,visualstudio" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,linux,androidstudio,atom,elasticsearch,grafana,kali,kubernetes,terraform,webstorm,visualstudio" />
 </p>
 
 - Database
@@ -117,5 +97,3 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 [//]: # (### Socials & Visit Count)
 
 [//]: # (<a><img src="https://profile-counter.glitch.me/chanuka/count.svg" width="150px"/></a>)
-
-</a>
